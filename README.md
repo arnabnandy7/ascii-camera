@@ -29,4 +29,8 @@ ASCII Camera uses the HTML5 getUserMedia API to transform a video stream from yo
 ## License
 
 - This code is licensed under the MIT License.
-<!-- GitAds-Verify: 61B95L9Z3YKREGDEMQZI9JD78PQV14BZ -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/ascii-camera@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/ascii-camera@github)
+
+
